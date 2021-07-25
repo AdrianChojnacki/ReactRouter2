@@ -7,10 +7,6 @@
   color: #222;
 }
 
-header {
-  flex-basis: 30vh;
-}
-
 main {
   flex-grow: 1;
   display: flex;
