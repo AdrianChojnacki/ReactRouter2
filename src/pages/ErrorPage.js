@@ -1,7 +1,7 @@
 import React from "react";
 
 const ErrorPage = () => {
-  return <div>ERROR!</div>;
+  return <div style={{ color: "red" }}>ERROR! Strona nie istnieje...</div>;
 };
 
 export default ErrorPage;
